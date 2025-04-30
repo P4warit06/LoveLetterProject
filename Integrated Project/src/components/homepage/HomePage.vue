@@ -4,6 +4,9 @@ import MockUpPage from '@/assets/image/MockUpPage.png'
 import ProductDetail from '../ProductView/ReadProductDetail.vue';
 import ProductList from '../ProductView/ProductList.vue';
 import BrandList from '../ProductView/BrandList.vue';
+import MockUpSecond from '@/assets/image/MockUpSecond.png'
+import ChooseUspage from './ChooseUspage.vue';
+
 </script>
 <template>
     <!-- คุมด้วย Background ก่อนจากนั้นค่อยตามด้วย Component แล้วข้อความ -->
@@ -18,6 +21,10 @@ import BrandList from '../ProductView/BrandList.vue';
     <ProductDetail/>    
     <ProductList/> 
     <BrandList/>
+    <ChooseUspage/>
+            
+
+
 
 </template>
 
