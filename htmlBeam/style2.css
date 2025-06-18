@@ -1,0 +1,52 @@
+.content{ 
+    color: aqua;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;       
+    margin: 20px;
+    padding: 10px;
+    background-color: blue;
+}
+.content2{
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;       
+    margin: 20px;
+    padding: 10px;
+    background-color: black;       
+}
+.content3{
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;       
+    margin: 20px;
+    padding: 10px;
+    background-color: green;       
+}
+.content4{
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;       
+    margin: 20px;
+    padding: 10px;
+    background-color: red;       
+}
+#section1 .text{
+    color:wheat;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+
+}
+body  { 
+    background-color: #4783BB;
+}
+h1{ 
+    color: white;
+}
+img{
+    width: 200px;
+    height: 175px;
+}

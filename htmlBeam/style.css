@@ -1,0 +1,27 @@
+h1 { 
+    color: blue;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+tr{ 
+    border: 1px solid black;
+
+}
+td { 
+    border: 1px solid black;
+    padding: 8px;
+
+}
+th { 
+    color: aliceblue;
+}
+.slider img {
+    width: 70 px ;
+    height: 70 px ;
+    display: none; /* Hide all images initially */
+}
+.slider img:first-child {
+    display: block; /* Show the first image */
+}
